@@ -1,0 +1,8 @@
+{
+  "name": "frp-world",
+  "version": "0.0.0",
+  "dependencies": {
+    "bacon": "~0.7.0",
+    "angular": "~1.2.6"
+  }
+}

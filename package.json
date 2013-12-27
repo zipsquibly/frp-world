@@ -1,0 +1,26 @@
+{
+  "name": "frp-world",
+  "version": "0.1.0",
+  "description": "frp-world =========",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zipsquibly/frp-world.git"
+  },
+  "keywords": [
+    "MUD",
+    "FRP"
+  ],
+  "author": "Brian Carlson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "df9986638e7fea06262ed22bdc94b808599f8155",
+  "dependencies": {
+    "baconjs": "~0.7.0",
+    "express": "~3.4.7"
+  }
+}
